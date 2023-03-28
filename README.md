@@ -1,15 +1,15 @@
-# Spryker Commerce OS
+# SecurityBlockerExtension Module
+[![Latest Stable Version](https://poser.pugx.org/spryker/security-blocker-extension/v/stable.svg)](https://packagist.org/packages/spryker/security-blocker-extension)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)](https://php.net/)
 
-## Core Modules
+Module provides extension interfaces for the SecurityBlocker module.
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
-[![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)](https://php.net/)
+## Installation
 
-This is a mono-repo of our Spryker modules.
-If you want to make a PR with suggested changes, please do so in the specific module repository
-`https://github.com/spryker/{module-name}`.
+```
+composer require spryker/security-blocker-extension
+```
 
-### Links
-- **[Spryker Documentation](https://docs.spryker.com/)**
+## Documentation
 
-
+[Spryker Documentation](https://docs.spryker.com)
